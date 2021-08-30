@@ -27,5 +27,23 @@ Rad je podeljen u 5 celina. U prvoj celini (*01.ipynb*) opisana je baza podataka
  <br /> 
  <br /> 
 <p align="center">
-  <img width="460" height="300" src="img/gui_demo_.png">
+  <img width="470" height="430" src="img/gui_demo_.png">
 </p>
+
+ <br /> 
+ <br /> 
+ <br /> 
+
+**Literatura**:
+ <br /> 
+* G. Kaur, J. Gao, S. Chiao, S. Lu and G. Xie, "Air Quality Prediction: Big Data and Machine Learning Approaches," International Journal of Environmental Science and Development, vol. 9(1), pp. 8-16, 2018.
+
+* https://archive.ics.uci.edu/ml/datasets/Beijing+Multi-Site+Air-Quality+Data/ 
+
+*  M. Z. Joharestani, C. Cao, X. Ni, B. Bashir and S. Talebiesfandarani, "PM2.5 Prediction Based on Random Forest, XGBoost,and Deep Learning Using Multisource Remote," Atmosphere, vol. 10, p. 373, 2019.
+
+* A. V. Dorogush, V. Ershov and A. Gulin, "CatBoost: gradient boosting with categorical features support," ArXiv, 2018. 
+
+
+
+
