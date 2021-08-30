@@ -13,21 +13,21 @@ Rad je podeljen u 5 celina. U prvoj celini (*01.ipynb*) opisana je baza podataka
  <br /> 
  <br /> 
 <p align="center">
-  <img width="460" height="300" src="img/data.png">
+  <img width="460" height="300" src="images/data.png">
 </p>
 
  <br /> 
  <br /> 
  <br /> 
 <p align="center">
-  <img width="460" height="300" src="img/series.png">
+  <img width="460" height="300" src="images/series.png">
 </p>
 
  <br /> 
  <br /> 
  <br /> 
 <p align="center">
-  <img width="470" height="430" src="img/gui_demo_.png">
+  <img width="470" height="430" src="images/gui_demo_.png">
 </p>
 
  <br /> 
