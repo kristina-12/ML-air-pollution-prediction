@@ -58,5 +58,6 @@ Rad je podeljen u 5 celina. U prvoj celini (*01.ipynb*) opisana je baza podataka
 **Neophodni paketi**:
  <br /> 
  <br /> 
-numpy, pandas, matplotlib, seaborn, math, datetime, sklearn, tensorflow, seaborn, catboost, xgboost, tkinter, PIL 
+ 
+*numpy, pandas, matplotlib, seaborn, math, datetime, sklearn, tensorflow, seaborn, catboost, xgboost, tkinter, PI*
 
